@@ -62,7 +62,7 @@ Create `.env` file:
 ```env
 MONGO_URI=mongodb://localhost:27017/todo-app
 JWT_SECRET=your-strong-secret-here
-PORT=3000
+PORT=5000
 ```
 
 ## Running the Project
